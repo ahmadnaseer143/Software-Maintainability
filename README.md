@@ -45,9 +45,6 @@ Plots will be saved as `scatter_loc_mi.png` and `boxplot_cc.png`.
 - **Higher LOC correlates with lower Maintainability Index.**
 - **Modules exceeding 500 LOC show increased complexity and bug density.**
 - **Optimal module size for maintainability: 200-500 LOC.**
-
-## 📎 Repository Link
-📌 **[GitHub Repository](https://github.com/your-repo-link)**  
 _(Replace with your actual repository link)_
 
 ## 🔗 References
